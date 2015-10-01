@@ -19,5 +19,6 @@
       </config-file>
       <config-file target="*-Info.plist" parent="UIRequiresFullscreen">
           <true/>
+      </config-file>
     </platform>
 </plugin>
